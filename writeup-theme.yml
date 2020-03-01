@@ -20,7 +20,7 @@ code:
   border-radius: ~
   font-family: Courier
 title-page:
-  background-color: 000000
+  background-color: 0c0d0f
   font-color: FFFFFF
 title-page-authors:
   font-color: FFFFFF
