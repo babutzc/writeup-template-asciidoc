@@ -32,7 +32,7 @@ If you want a different image you can change the URL
 Use the following syntac to create a pdf. If you do not usea picture from the internet you can exclude the ``-a`` flag
 
 ```
-asciidoctor-pdf -b pdf -o template.pdf -D ../pdf  -a allow-uri-read template.adoc```
+asciidoctor-pdf -b pdf -o template.pdf -D ../pdf  -a allow-uri-read template.adoc
 
 ```
 -b	which backend
