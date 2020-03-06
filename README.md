@@ -35,9 +35,9 @@ Use the following syntac to create a pdf. If you do not usea picture from the in
 asciidoctor-pdf -b pdf -o template.pdf -D ../pdf  -a allow-uri-read template.adoc
 
 ```
--b	which backend
--o	name of the output file
--D 	Location where to place output file
--a 	allow to fetch the image from a remote target
+-b	which backend. 
+-o	name of the output file. 
+-D 	Location where to place output file. 
+-a 	allow to fetch the image from a remote target. 
 ```
 
