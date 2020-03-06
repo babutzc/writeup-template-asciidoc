@@ -3,7 +3,7 @@
 This template can be used if you dont like the standard ascidoctor-pdf default theme. I tried to make it a dynamic document, so you have minimale changes to make. 
 
 Customize the theme yourself
-* ![AsciiDoctor PDf Theming Guide](https://github.com/asciidoctor/asciidoctor-pdf/blob/master/docs/theming-guide.ado)
+* ![AsciiDoctor PDf Theming Guide](https://github.com/asciidoctor/asciidoctor-pdf/blob/master/docs/theming-guide.adoc)
 
 
 
